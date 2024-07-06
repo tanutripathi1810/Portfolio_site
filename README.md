@@ -2,9 +2,20 @@
 
 This is a personal portfolio website showcasing my projects and skills. The site is built using React, Three.js for 3D animations, and Tailwind CSS for styling. It is deployed on Vercel.
 
-## Live Demo
+## Table of Contents
+
+- [Demo](#demo)
+- [Features](#features)
+- [Installation](#installation)
+- [License](#license)
+- [Contact](#contact)
+
+
+## Demo
 
 You can view the live site at [portfolio-site](https://portfolio-site-7kukvtrj7-tanus-projects-90fd2059.vercel.app).
+
+![Portfolio Screenshot](https://github.com/tanutripathi1810/Portfolio_site/blob/main/src/portfolio.png)
 
 ## Features
 
@@ -43,3 +54,14 @@ Ensure you have the following installed on your development machine:
 To start the development server, run:
 ```sh
 npm run dev
+```
+
+The app will be available at http://localhost:3000.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+For any inquiries, please reach out to tripathitanu02@gmail.com.
+
+### Made with ❤️ by Tanu Tripathi
